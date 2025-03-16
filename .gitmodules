@@ -1,0 +1,6 @@
+[submodule "lib/ATD-S3-Driver_Library"]
+	path = lib/ATD-S3-Driver_Library
+	url = https://github.com/ArtronShop/ATD-S3-Driver_Library.git
+[submodule "lib/lvgl"]
+	path = lib/lvgl
+	url = https://github.com/lvgl/lvgl.git
