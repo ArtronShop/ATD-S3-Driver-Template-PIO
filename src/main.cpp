@@ -7,7 +7,7 @@ void setup() {
   Serial.begin(115200);
   
   // Setup peripherals
-  Display.begin(LCD_SIZE_800x480, 0); // rotation number 0
+  Display.begin(LCD_SIZE_800x480, 1); // rotation number 1
   Touch.begin();
 
   // Map peripheral to LVGL
